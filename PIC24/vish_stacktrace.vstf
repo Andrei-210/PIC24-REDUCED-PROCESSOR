@@ -1,0 +1,184 @@
+# Current time Thu Jan 01 16:40:19 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x1002bd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 7    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 8    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x06109390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x06521c40: '<unknown (@0x6521c40)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Thu Jan 01 17:22:38 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x10262446: 'Tk_MainLoop + 0x16'
+# 5    0x00472c04: 'Mtirpc_Init + 0xf854'
+# 6    0x00473e15: 'Mtirpc_Init + 0x10a65'
+# 7    0x0065beb3: '<unknown (@0x65beb3)>'
+# 8    0x75cffcc9: '<unknown (@0x75cffcc9)>'
+# 9    0x77e182ae: '<unknown (@0x77e182ae)>'
+# 10   0x77e1827e: '<unknown (@0x77e1827e)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Jan 01 17:52:53 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x1002bd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 7    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 8    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x046f9390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x06523608: '<unknown (@0x6523608)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Thu Jan 01 19:12:32 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x011c83ea: 'TclServiceIdle + 0x4a'
+# 3    0x011bb834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x0119bd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x0117d52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x0119cad7: 'TclCompEvalObj + 0x637'
+# 7    0x0119c590: 'TclCompEvalObj + 0xf0'
+# 8    0x0117e159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x05519390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x05927b40: '<unknown (@0x5927b40)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Thu Jan 01 20:01:23 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x10262446: 'Tk_MainLoop + 0x16'
+# 5    0x00472c04: 'Mtirpc_Init + 0xf854'
+# 6    0x00473e15: 'Mtirpc_Init + 0x10a65'
+# 7    0x0065beb3: '<unknown (@0x65beb3)>'
+# 8    0x75cffcc9: '<unknown (@0x75cffcc9)>'
+# 9    0x77e182ae: '<unknown (@0x77e182ae)>'
+# 10   0x77e1827e: '<unknown (@0x77e1827e)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Jan 01 22:32:28 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x10262446: 'Tk_MainLoop + 0x16'
+# 5    0x00472c04: 'Mtirpc_Init + 0xf854'
+# 6    0x00473e15: 'Mtirpc_Init + 0x10a65'
+# 7    0x0065beb3: '<unknown (@0x65beb3)>'
+# 8    0x75cffcc9: '<unknown (@0x75cffcc9)>'
+# 9    0x77e182ae: '<unknown (@0x77e182ae)>'
+# 10   0x77e1827e: '<unknown (@0x77e1827e)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Jan 01 23:41:12 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x100583ea: 'TclServiceIdle + 0x4a'
+# 3    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x1002bd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 7    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 8    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x046f9390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x064f5138: '<unknown (@0x64f5138)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Fri Jan 02 01:22:57 2026
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.4b"
+# Version = "2008.11"
+# Date = "Nov 15 2008"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 0047f830. Traceback:
+# 0    0x0047f830: 'Mtirpc_Init + 0x1c480'
+# 1    0x00447630: '<unknown (@0x447630)>'
+# 2    0x012283ea: 'TclServiceIdle + 0x4a'
+# 3    0x0121b834: 'Tcl_DoOneEvent + 0x124'
+# 4    0x011fbd68: 'Tcl_VwaitObjCmd + 0x78'
+# 5    0x011dd52b: 'TclEvalObjvInternal + 0x24b'
+# 6    0x011fcad7: 'TclCompEvalObj + 0x637'
+# 7    0x011fc590: 'TclCompEvalObj + 0xf0'
+# 8    0x011de159: 'Tcl_EvalObjEx + 0x59'
+# 9    0x04709390: 'Itcl_EvalMemberCode + 0x210'
+# 10   0x065fd318: '<unknown (@0x65fd318)>'
+StackWalk failed 126
+# End of Stack Trace
+

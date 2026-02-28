@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<DeviceUsageSummary rev="17">
+<DesignStatistics TimeStamp="Tue Jan 06 23:30:31 2026"><group name="MiscellaneousStatistics">
+<item name="AVG_LUT_FAN_IN" rev="17">
+<attrib name="value" value="3.171900"/></item>
+<item name="AVG_SIG_FANOUT" rev="17">
+<attrib name="value" value="3.270000"/></item>
+<item name="FOUR_LOAD_SIG" rev="17">
+<attrib name="value" value="2"/></item>
+<item name="LUT" rev="17">
+<attrib name="value" value="192"/></item>
+<item name="MAX_SIG_FANOUT" rev="17">
+<attrib name="value" value="49"/></item>
+<item name="PK_NUM_4_INPUT_LUTS" rev="17">
+<attrib name="value" value="192"/></item>
+<item name="PK_NUM_BONDED_IOBS" rev="17">
+<attrib name="value" value="53"/></item>
+<item name="PK_NUM_CYINIT" rev="17">
+<attrib name="value" value="19"/></item>
+<item name="PK_NUM_CYMUX" rev="17">
+<attrib name="value" value="36"/></item>
+<item name="PK_NUM_DP_RAMS" rev="17">
+<attrib name="value" value="32"/></item>
+<item name="PK_NUM_EQUIV_GATES" rev="17">
+<attrib name="value" value="7"/></item>
+<item name="PK_NUM_IOB_FFS" rev="17">
+<attrib name="value" value="20"/></item>
+<item name="PK_NUM_JTAG_GATES" rev="17">
+<attrib name="value" value="53"/></item>
+<item name="PK_NUM_LUTLESS_IOB_FFS" rev="17">
+<attrib name="value" value="1"/></item>
+<item name="PK_NUM_MUXF5" rev="17">
+<attrib name="value" value="23"/></item>
+<item name="PK_NUM_MUXFS" rev="17">
+<attrib name="value" value="23"/></item>
+<item name="PK_NUM_RAM16S" rev="17">
+<attrib name="value" value="16"/></item>
+<item name="PK_NUM_SLICELS" rev="17">
+<attrib name="value" value="107"/></item>
+<item name="PK_NUM_SLICEMS" rev="17">
+<attrib name="value" value="40"/></item>
+<item name="PK_NUM_SLICES" rev="17">
+<attrib name="value" value="147"/></item>
+<item name="PK_NUM_SLICE_FFS" rev="17">
+<attrib name="value" value="14"/></item>
+<item name="PK_NUM_TOTAL_LUTLESS_REGISTERS" rev="17">
+<attrib name="value" value="1"/></item>
+<item name="PK_NUM_XBZ_GCLKS" rev="17">
+<attrib name="value" value="1"/></item>
+<item name="PK_NUM_XOR" rev="17">
+<attrib name="value" value="35"/></item>
+<item name="SINGLE_LOAD_SIG" rev="17">
+<attrib name="value" value="109"/></item>
+<item name="THREE_LOAD_SIG" rev="17">
+<attrib name="value" value="3"/></item>
+<item name="TWO_LOAD_SIG" rev="17">
+<attrib name="value" value="57"/></item>
+</group>
+</DesignStatistics>
+<CmdHistory>
+</CmdHistory>
+</DeviceUsageSummary>

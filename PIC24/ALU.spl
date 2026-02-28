@@ -1,0 +1,16 @@
+[Inputs]
+Clk
+CE_N
+CE_Z
+CE_C
+CE_OV
+=RdData1[15:0]=
+=RdData2[15:0]=
+=ALUOP[2:0]=
+[Outputs]
+Nflag
+Zflag
+Cflag
+OVflag
+=Y[15:0]=
+[BiDir]

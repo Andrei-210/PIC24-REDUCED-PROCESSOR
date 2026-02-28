@@ -1,0 +1,94 @@
+V3 64
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/ALU.vhd 2026/01/05.10:05:37 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/ctrl.vhd 2026/01/05.10:01:48 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/DataMem.vhd 2026/01/05.10:01:48 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/File_Regs.vhd 2026/01/05.10:01:48 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/MUX2V16.vhd 2026/01/05.10:01:49 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/MUX2V5.vhd 2026/01/05.10:01:49 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/PC_Update.vhd 2026/01/05.10:01:49 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/PIC24.vhf 2026/01/05.10:06:42 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/ProgCnt.vhd 2026/01/05.10:01:50 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/ROM32x24.vhd 2025/11/20.20:16:21 J.40
+FL C:/Users/student_dcti/Desktop/Proiect_I/PIC24/ROM32x24_ZE.vhd 2026/01/05.10:01:51 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ALU.vhd 2026/01/05.10:05:38 J.40
+EN work/ALU 1767735029 FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ALU.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033 PH ieee/NUMERIC_STD 1192821033
+AR work/ALU/Behavioral 1767735030 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ALU.vhd EN work/ALU 1767735029
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ctrl.vhd 2026/01/05.10:01:50 J.40
+EN work/ctrl 1767735031 FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ctrl.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ctrl/Behavioral 1767735032 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ctrl.vhd EN work/ctrl 1767735031
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/DataMem.vhd 2026/01/05.10:01:50 J.40
+EN work/DataMem 1767735033 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/DataMem.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/DataMem/Behavioral 1767735034 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/DataMem.vhd EN work/DataMem 1767735033
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/File_Regs.vhd 2026/01/05.10:01:50 J.40
+EN work/File_Regs 1767735039 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/File_Regs.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/File_Regs/Behavioral 1767735040 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/File_Regs.vhd EN work/File_Regs 1767735039
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/MUX2V16.vhd 2026/01/05.10:01:50 J.40
+EN work/MUX2V16 1767735025 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/MUX2V16.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/MUX2V16/Behavioral 1767735026 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/MUX2V16.vhd EN work/MUX2V16 1767735025
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/MUX2V5.vhd 2026/01/05.10:01:50 J.40
+EN work/MUX2V5 1767735027 FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/MUX2V5.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/MUX2V5/Behavioral 1767735028 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/MUX2V5.vhd EN work/MUX2V5 1767735027
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/PC_Update.vhd 2026/01/05.10:01:50 J.40
+EN work/PC_Update 1767735035 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/PC_Update.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/PC_Update/Behavioral 1767735036 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/PC_Update.vhd EN work/PC_Update 1767735035
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/PIC24.vhf 2026/01/05.23:07:13 J.40
+EN work/PIC24 1767908174 FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/PIC24.vhf \
+      PB ieee/std_logic_1164 1192821031 PH ieee/NUMERIC_STD 1192821033 LB UNISIM \
+      PH unisim/VCOMPONENTS 1194566982
+AR work/PIC24/BEHAVIORAL 1767908175 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/PIC24.vhf EN work/PIC24 1767908174 \
+      CP MUX2V16 CP MUX2V5 CP ALU CP ctrl CP DataMem CP PC_Update CP ProgCnt \
+      CP File_Regs CP ROM32x24
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ProgCnt.vhd 2026/01/05.10:01:52 J.40
+EN work/ProgCnt 1767735037 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ProgCnt.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ProgCnt/Behavioral 1767735038 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ProgCnt.vhd EN work/ProgCnt 1767735037
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24.vhd 2025/12/11.10:01:22 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_ALL.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_BRA_C.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_BRA_N.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_BRA_OV.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_BRA_Z.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_C_FLAG.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_DEC.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_N_FLAG.vhd 2026/01/06.23:30:15 J.40
+EN work/ROM32x24 1767735041 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_N_FLAG.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24/Behavioral 1767735042 \
+      FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_N_FLAG.vhd \
+      EN work/ROM32x24 1767735041
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_OV_FLAG.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_SE.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_SL.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_ZE.vhd 2026/01/05.10:01:52 J.40
+FL C:/Users/Virtual/Desktop/Proiect_I/PIC24/ROM32x24_Z_FLAG.vhd 2026/01/05.10:01:52 J.40
