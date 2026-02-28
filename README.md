@@ -84,6 +84,12 @@ PIC24/
 
 ---
 
+## Testing
+
+Each instruction has its own dedicated ROM file used to verify correct behavior in isolation — particularly to ensure that **status flags** (OV, C, N, Z) are set and cleared correctly for each operation. This approach makes it easy to debug and validate individual instructions without interference from other parts of the program.
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -104,6 +110,7 @@ PIC24/
 ---
 
 ## Author
+
 - **Nicoli Andrei - Claudiu**
 - **Third-year student at University of Craiova, Faculty of Automatics, Computer Science and Engineering**
 
