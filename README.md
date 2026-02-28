@@ -103,6 +103,12 @@ PIC24/
 
 ---
 
+## Author
+- **Nicoli Andrei - Claudiu**
+- **Third-year student at University of Craiova, Faculty of Automatics, Computer Science and Engineering**
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
